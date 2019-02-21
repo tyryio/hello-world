@@ -1,4 +1,12 @@
-# hello-world
-Learning to use GIT
+<!doctype html>
+<html>
+<head>
+<title>hello</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
+</head>
 
-More text.
+<body>
+  <h1>hello-world</h1>
+</body>
+</html>
