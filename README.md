@@ -8,5 +8,6 @@
 
 <body>
   <h1>hello-world</h1>
+  <p>This is a paragraph</>
 </body>
 </html>
